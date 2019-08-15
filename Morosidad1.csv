@@ -1,4 +1,4 @@
-Nro_Veces_cob;Nro_Cuotas;Mes_pres;MES_0_Atraso;MES_1_Atraso;MES_2_Atraso;Llamada_fecha;Hora;Llamada_Resultado;Deuda_total;Activación;Mora
+Nro_Veces_cob;Nro_Cuotas;Mes_pres;MES_0_Atraso;MES_1_Atraso;MES_2_Atraso;Llamada_fecha;Hora;Llamada_Resultado;Deuda_total;ActivaciÃ³n;Mora
 >10;<24, 48];Febrero;244.86;0;245.26;3/02/2014;15;PDP  Promesa De Pago;3816.34;2012;0
 <=10;>48;Febrero;610.58;612.69;611.54;18/02/2014;9;PDP  Promesa De Pago;13620.5;2012;0
 <=10;<24, 48];Febrero;2138.73;0;0;5/02/2014;16;TELF. NO CORRESPONDE;18968.5;2013;1
